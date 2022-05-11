@@ -1,0 +1,33 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 91,
+    "height" : 123
+  }, {
+    "width" : 182,
+    "height" : 245
+  }, {
+    "width" : 363,
+    "height" : 489
+  }, {
+    "width" : 726,
+    "height" : 978
+  }, {
+    "width" : 1451,
+    "height" : 1955
+  }, {
+    "width" : 2902,
+    "height" : 3910
+  } ],
+  "profile" : "level0",
+  "width" : 2902,
+  "id" : "https://LesZimmermann.github.io/Alchemie/images/Epitaph_Gesamtansicht_1913_326_03",
+  "type" : "ImageService3",
+  "@context" : "http://iiif.io/api/image/3/context.json",
+  "height" : 3910
+}
